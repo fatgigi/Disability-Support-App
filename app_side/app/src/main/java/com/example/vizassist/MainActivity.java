@@ -27,7 +27,7 @@ import java.sql.Time;
 
 public class MainActivity extends AppCompatActivity {
 
-    private static final String UPLOAD_HTTP_URL = "http://35.226.151.113:8080/vizassist/annotate";
+    private static final String UPLOAD_HTTP_URL = "xxxxxxx";
 
     private static final int IMAGE_CAPTURE_CODE = 1;
     private static final int SELECT_IMAGE_CODE = 2;
